@@ -153,6 +153,7 @@ ja:
     submit:
       create: 登録する
       submit: 保存する
+      save: 登録する
       update: 更新する
   number:
     currency:
